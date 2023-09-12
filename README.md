@@ -1,7 +1,9 @@
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082" width="48" height="48"> COVID-19-Analysis
 
 ## Introduction
-COVID-19, caused by SARS-CoV-2, is a global pandemic respiratory illness since 2019. It ranges from mild to severe symptoms, affecting all aspects of life. Preventive measures include vaccination, masks, and distancing. Research and collaboration are key in managing its spread.
+COVID-19, caused by SARS-CoV-2, is a global pandemic that emerged in 2019. It can have mild to severe symptoms and has far-reaching effects on daily life. 
+
+Prevention methods include vaccination, mask-wearing, and distancing, with **research** and global collaboration being crucial in controlling its spread.
 
 ## Problem Aimed to Solve
 
